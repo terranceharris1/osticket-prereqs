@@ -4,17 +4,19 @@
 
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+While doing this lab I was able to gain experience with ticketing systems and how to operate them. 
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket
+- MySQL
+- Heidi SQL
 
 <h2>Operating Systems Used </h2>
 
@@ -34,5 +36,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/aaada510-a475-41fa-b2f6-524cd09a39aa)
 - Created tickets with different scenarios and closed/resolved/transferred them to different departments. ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/5b5d4f41-e546-4ace-ac16-7ffb97a6fcf1)
 ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/bde2ff41-fc5e-4d7d-9f73-d457d82ed1f3)
+![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/873ac46d-c145-4d99-aeea-521af03bc75f)
 
 
