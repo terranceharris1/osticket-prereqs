@@ -31,9 +31,6 @@ While doing this lab I was able to gain experience with ticketing systems and ho
 
 - Created and installed osTicket using my own credentials ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/859e4a2c-926a-4b70-adca-0a43effd6a59)
 
-- Played the role of an admin and created agents and assigned them to departments. Also created SLA's ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/137a94a0-d28f-4ee3-9ae9-dbe0dfe41362)
-![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/9d8624c1-6996-4e46-94ed-85e3a103d720)
-![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/aaada510-a475-41fa-b2f6-524cd09a39aa)
 - Created tickets with different scenarios and closed/resolved/transferred them to different departments. ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/5b5d4f41-e546-4ace-ac16-7ffb97a6fcf1)
 ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/bde2ff41-fc5e-4d7d-9f73-d457d82ed1f3)
 ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/873ac46d-c145-4d99-aeea-521af03bc75f)
