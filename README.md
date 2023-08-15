@@ -25,14 +25,14 @@ While doing this lab I was able to gain experience with ticketing systems and ho
 <h2>List of Prerequisites</h2>
 
 - Created Virtual Machine using Microsoft Azure
+- ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/2a030b98-dd97-48e9-af05-9335abe77088)
+
 - Used installation files to install OsTicket onto the virtual machine ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/b6ae3c8a-d115-41cb-b535-af87058dfc11)
 
 - Used IIS to turn on requirements for OsTicket such as CGI & Web Management Tools ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/0f6fc985-5802-4989-9e45-6321ee3bda16)
 
 - Created and installed osTicket using my own credentials ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/859e4a2c-926a-4b70-adca-0a43effd6a59)
 
-- Created tickets with different scenarios and closed/resolved/transferred them to different departments. ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/5b5d4f41-e546-4ace-ac16-7ffb97a6fcf1)
-![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/bde2ff41-fc5e-4d7d-9f73-d457d82ed1f3)
-![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/873ac46d-c145-4d99-aeea-521af03bc75f)
+
 
 
