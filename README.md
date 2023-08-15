@@ -3,8 +3,8 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-While doing this lab I was able to gain experience with ticketing systems and how to operate them. 
+This lab revolved around setting up, configuring, and using osTicket to effectively manage customer support requests. I engaged in various tasks, such as installing the software, configuring email settings, creating ticket queues, defining ticket templates, and managing user roles and permissions. This experience was particularly enabled by my knowledge of Microsoft Azure, a cloud computing platform. By using Microsoft Azure, I set up a virtual environment that allowed me to create a remote desktop. This remote desktop served as the platform where I installed and configured osTicket.<br />
+
 
 
 
