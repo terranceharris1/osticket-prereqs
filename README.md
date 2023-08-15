@@ -27,31 +27,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Used IIS to turn on requirements for OsTicket such as CGI & Web Management Tools ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/0f6fc985-5802-4989-9e45-6321ee3bda16)
 
-- Item 4
-- Item 5
+- Created and installed osTicket using my own credentials ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/859e4a2c-926a-4b70-adca-0a43effd6a59)
 
-<h2>Installation Steps</h2>
+- Played the role of an admin and created agents and assigned them to departments. Also created SLA's ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/137a94a0-d28f-4ee3-9ae9-dbe0dfe41362)
+![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/9d8624c1-6996-4e46-94ed-85e3a103d720)
+![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/aaada510-a475-41fa-b2f6-524cd09a39aa)
+- Created tickets with different scenarios and closed/resolved/transferred them to different departments. ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/5b5d4f41-e546-4ace-ac16-7ffb97a6fcf1)
+![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/bde2ff41-fc5e-4d7d-9f73-d457d82ed1f3)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
